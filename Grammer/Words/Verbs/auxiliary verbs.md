@@ -4,7 +4,7 @@
 **助动词**是含有以下2种性质的动词：
 
 1. **能够辅助主动词(通常是实义动词)构成语法概念**，即使谓语动词能够表达将来时，否定，可能性，必须性等含义
-<br>
+
 
 2. **不能够单独作谓语动词**
 
@@ -20,7 +20,7 @@ can 拥有实际含义“可以”，是情态动词
 
 在作实意动词时有不同含义，但在作助动词时**不具备实际含义**
 因此，在不同句子中注意**判别动词身份**
-<br>
+
 
 * **be** 的应用 
 
@@ -29,13 +29,17 @@ can 拥有实际含义“可以”，是情态动词
 
 *eg2：*  The carrot **was** ***eaten*** by the rabbit.
 **be → was**，辅助构成 **被动语态**《
-<br>
+
+
+
 
 * **have** 的应用 
 
 *eg：*  The rabbit **has** ***eaten*** a carrot.
 **have → has**，辅助构成 **现在完成时**《
-<br>
+
+
+
 
 * **do** 的应用 
 
@@ -60,7 +64,7 @@ i. **表示有能力做某事，译为 “可以”**
 
 *eg2：* I **could** kill a wolf last yeat. 
 当 could 译为 “可以”时，  could 是 can 的**过去式**
-<br>
+
 
 ii. **表示请求或许可**
 
@@ -69,7 +73,7 @@ Q：**Can / Could** I borrow your book?
 A：Yes, of course.
 
 当 could 表示请求或许可时，没有时间上的含义，而是**更礼貌委婉**，本质是一种**虚拟语气**，有“如果回答否定，那就当我没说”的含义《
-<br>
+
 
 iii. **表示可能性**
 
@@ -78,7 +82,6 @@ iii. **表示可能性**
 
 Anything **could** happen.
 这里的 could 可以**表示对过去的猜测**，也可能**表现在的可能性(可能性比 can 小)**
-<br>
 
 *eg2：*  The rabbit **could have gone** home earlier, but he didn't finish work on time.
 兔子**本可以**早回家的，但他没按时完成工作。
@@ -112,13 +115,13 @@ i. **表示必须**
 
 *eg：*  You **must** finish your homework first.
 表示必须，语气不容质疑
-<br>
+
 
 ii. **表示禁止**
 
 *eg：*  You **mustn't** smoke here. (译为：禁止你在这吸烟。)
 当 must + not / mustn't 时，**能且只能表示禁止做某事**，译为 **“禁止”**，含义上表示 **“必须不”**
-<br>
+
 
 iii. **表推测**
 
@@ -128,7 +131,7 @@ iii. **表推测**
 灯亮着，兔子**一定**在家。
 
 这里 must 并**不表达“必须”**的含义，而是表达**肯定的推测**
-<br>
+
 
 但如果使用 mustn't ，则表示**禁止**
 *eg：*  
@@ -148,7 +151,7 @@ i. **构成将来时**
 
 *eg1：*  The rabbit **will** eat a carrot. *(现在将来时)*《
 *eg2：*  The rabbit **would** eat a carrot. *(过去将来时)*《
-<br>
+
 
 ii. **表示请求，建议**
 
@@ -161,7 +164,7 @@ would 表达语气更委婉，且此时 would **不表达时间概念**
 
 因此，英语里通常用句型 **Would you please...?** 来表达请求
 
-<br>
+
 
 iii. **表推测，假设**
 
@@ -169,7 +172,7 @@ iii. **表推测，假设**
 他**可能**知道。
 同样，would 程度比 will 弱
 
-<br>
+
 
 由于 will / would 能够表示推测，也能够构成进行时，会导致部分句子**出现歧义**，一般通过语境来区分
 
@@ -189,13 +192,13 @@ i. **构成将来时**
 *eg：* 
 I **will** be there at 9 A.M.
 I **shall** be there at 9 A.M.
-<br>
+
 
 ii. **表示请求或征求意见**
 
 *eg：*  **Shall** we meet at 9 A.M?  *(这里比起“推测”，更倾向于 **“建议”**)*
 
-<br>
+
 
 iii. **表警告，命令等**
 
@@ -216,17 +219,17 @@ should 虽然是 shall 的过去式，但二者在用法上有较大区别
 i. **表应当**
 *eg：*  We **should** treat the rabbit well.
 should 表示应当，有一定义务的含义
-<br>
+
 
 ii. **表示有一定根据的推测**
 *eg：*  It **should** rain tomorrow.
 这里的 should 表示**根据一定具体情况得出的推测**，可能性程度较大
-<br>
+
 
 iii. **表示“竟然”***(少见)*
 *eg：*  It's surprising that he **should** be late.
 这里的 should 显然不表示义务，而是表示 **“竟然”**，体现惊讶，愤怒，失望等含义
-<br>
+
 
 iv. **构成虚拟语气**《
 
@@ -255,7 +258,7 @@ You **should** have eaten the carrot.
 
 通常作**实义动词**，译为 **“需要”**
 *eg：*  I need your coins.
-<br>
+
 
 也可以作**情态动词**，同样表示 **“需要，有必要”**
 
@@ -264,7 +267,7 @@ The rabbit **need** wait. *(这里 need 是情态动词)*
 
 The rabbit **needs** to wait. *(这里 need 是实义动词)*
 
-<br>
+
 
 need 作情态动词时，可以直接加 not **表示否定**
 *eg：*  
@@ -299,7 +302,7 @@ How **dare** you!
 
 ***
 ### 3. 半助动词
-<br>
+
 
 * **be able to** *表示有能力做到某事，译为 “能够”*
 
@@ -317,14 +320,14 @@ be able to 可以表达**将来的能力**
 * **be going to** ，**be about to** ，**be to**
 
 和 will 具有类似的性质，都表示将要做某事，但**具体语境中不同**
-<br>
+
 
 **be going to** 有更强的主观能动性，含有 **“计划做某事的意思”**，而且通常是 **“很快就要做某事”**
 *eg：*  I **'m going to** eat dinner at 6 p.m. today.
-<br>
+
 
 **be about to** 是指**马上要做某事，时间更短**
-<br>
+
 
 **be to**  包含一定的**命令成分**
 *eg：*  You **are to** finish home work first. 
@@ -343,5 +346,4 @@ You **must** finish home work first.
 表示 **“最好做”**，往往表示 忠告，警告之意，
 暗含 **“如果不那么做，可能会又不好的后果”** 这一意味
 *eg：*  You had better follow my orders.
-
 

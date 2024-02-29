@@ -11,14 +11,14 @@
 *eg：* The rabbit likes **minced** carrots.
 句中，like 受到主语限制变为likes ，是限定性动词
 minced 不受主语限制，是非限定性动词
-<br>
+
 
 **一个简单句中只有一个谓语动词，而句中其他动词必须以非谓语动词的身份出现**
 
 换句话说，**如果想要让动词充当除核心谓语动词以外的句子成分，则该动词必须转化成非谓语动词的4种形式之一**
 
 因此，谓语动词是句子的核心，而非谓语动词出现则在句子的非核心部分
-<br>
+
 
 非谓语动词可分为以下4种：</p>
 ***
@@ -34,7 +34,7 @@ minced 不受主语限制，是非限定性动词
 在某些情况下 to 还可以省略，被称为**裸不定式 (bare infinitive)**
 
 *eg：*  You helpd me **cook** the carrot.
-<br> 
+
 
 不定式功能如下：
 
@@ -48,7 +48,7 @@ It is good for the rabbit to eat a carrot every day. *(句式结构为 It is + adj. +
 使用**主语从句**改写句子，即：《
 ***It*** is good **that the rabbit eats a carrot every day.**
 
-<br>
+
 
 **2. 不定式作宾语**
 *eg：*  The rabbit likes **to eat carrots**.
@@ -58,7 +58,7 @@ It is good for the rabbit to eat a carrot every day. *(句式结构为 It is + adj. +
 可以使用 **it** 作为 **形式宾语** 改写这类句子：
 *eg：*   I consider ***it*** important **to eat a carrot every day**.
 
-<br>
+
 
 **3. 不定式作宾语补语**
 *eg：*  The rabbit expected the wolf **to eat a carrot**.
@@ -80,17 +80,17 @@ The wolf saw the rabbit **eat** a carrot.
 在这一点上与**现在分词作宾语补足语**所表达的含义有所区别《
 
 
-<br>
+
 
 **4. 不定式作定语**
 *eg：* The rabbit has a lot of carrots **to eat**.
 由于to eat 与 carrots 存在**动宾关系** (也就是行为和行为作用对象关系)，不定式作定语时**定语后置**
-<br>
+
 
 也就是说，当不定式与宾语是**主谓关系**(也就是行为和行为发出者关系)时，不定式作**宾补**
 而当不定式与宾语是**动宾关系**时，不定式作**定语**且定语后置
 
-<br>
+
 
 **5. 不定式作表语**
 *eg：* The rabbit's dream is **to eat every kind of carrot** in the world.
@@ -98,7 +98,7 @@ The wolf saw the rabbit **eat** a carrot.
 也可以改写句子，让不定式作主语
 *eg：* **To eat every kind of carrot** in the world is the rabbit's dream.
 
-<br>
+
 
 **6. 不定式作状语**
 用于表达原因，目的和结果，可以简化**状语从句**《
@@ -107,20 +107,20 @@ The wolf saw the rabbit **eat** a carrot.
 *eg：*  I was surprised **to get a thumbs-up.** *(大拇指竖起，也就是赞)*
 相当于**原因状语从句**《
 I was surprised because I got a thumbs-up.
-<br>
+
 
 * **表目的**
 *eg：*  I will do anything **to get a thumbs-up**.
 相当于**目的状语从句**《
 I will do anything in order taht I get a thumbs-up.
-<br>
+
 
 * **表结果**
 *eg：*  I got enough thumbs-up **to make another video**.
 相当于**结果状语从句**《
 I got enough thumbs-up, so that I made another video.
 
-<br>
+
 
 **7. 与状态相融合的不定式高级用法**(少见)
 *eg1：* The rabbit seemed **to be eating a carrot**.
@@ -133,7 +133,7 @@ I got enough thumbs-up, so that I made another video.
 ## 2. 动名词
 
 动名词的本质是将动词转化成名词来使用，因此动名词相当于**名词**，形式是 **动词原形 + ing**
-<br>
+
 
 动名词可以承担名词能够承担的一切成分，功能如下：
 
@@ -141,23 +141,28 @@ I got enough thumbs-up, so that I made another video.
 *eg：*  
 **Carrots** are healthy for the rabbit. → **Eating carrots** is healthy for the rabbit.
 eating carrots 是**动名词短语**，在句中作**主语**，表达这一行为
-<br>
+
+
 
 **2. 动名词作表语**
 *eg：*  The rabbit's hobby is **growing carrots**.
 
 此外，动名词还可以同时作表语和主语
 *eg：*  **Seeing** is **believing**. (眼见为实)
-<br>
+
+
 
 **3. 动名词作定语**
 *eg：*  a **sleeping** pill.
 sleeping 作定语，说明 pill 的用途
 也就是 a pill **for sleeping**
-<br>
+
+
 
 **4. 动名词作宾语**
 *eg：*  The rabbit likes **eating carrots**.
+
+
 
 宾语除了在动词之后出现，也会出现在**介词**之后，这时非谓语动词作宾语，动词形式为**动名词**
 *eg1：*  The rabbit **is fond of eating** carrots.
@@ -183,7 +188,7 @@ The rabbit ***stopped*** **eating** a carrot.
 兔子停止吃一根胡萝卜。
 
 
-<br>
+
 
 *eg2：*  动词 **forget** 
 
@@ -196,7 +201,7 @@ The wolf ***forgot*** **to invite** the rabbit to her party.
 The rabbit ***forgot*** **accepting** the wolf's invitation.
 兔子忘记接受狼的邀请。
 
-<br>
+
 
 以下动词和动词词组**只能跟动名词**作宾语
 
@@ -214,7 +219,7 @@ insist on , give up , feel like , put off ...
 
 现在分词暗含**主动关系**，即**被描述的是做出动作的人或物**
 
-<br>
+
 
 现在分词可以充当所有形容词可以充当的成分，功能如下：
 
@@ -236,13 +241,13 @@ a **sleeping** pill **=** a pill for sleeping
 一颗安眠药
 sleeping 是动名词，表示药片的属性
 
-<br>
+
 
 **2. 现在分词做表语**
 
 *eg：* The story is **interesting**.
 故事让人感兴趣。
-<br>
+
 
 表语表示主语的性质，特征或状态，用现在分词表示**主动**的意思
 因此，表示**动作**的现在分词不能做表语
@@ -251,7 +256,7 @@ sleeping 是动名词，表示药片的属性
 
 这一类现在分词还有：
 interest → interesting , excit → exciting , encourage → encouraging
-<br>
+
 
 **3. 现在分词做宾语补足语**
 
@@ -262,7 +267,7 @@ interest → interesting , excit → exciting , encourage → encouraging
 *eg：* The wolf saw the rabbit **eating** a carrot.
 狼之前看到兔子正在吃一根胡萝卜。
 
-<br>
+
 
 **4. 现在分词作状语**
 
@@ -273,14 +278,14 @@ interest → interesting , excit → exciting , encourage → encouraging
 Hearing the news 表示时间
 与**时间状语从句**《对应 →
 When he heard the news, the rabbit bacame excited.
-<br>
+
 
 * 表原因
 *eg：*  **Not knowing** what to eat, the rabbit skipped lunch.
 Not knowing 表示原因
 与**原因状语从句**《对应 →
 Because he didn't know what to eat, the rabbit skipped lunch.
-<br>
+
 
 事实上，现在分词作状语往往与**状语从句**》相对应，而使用现在分词往往能够简化状语从句
 
@@ -293,7 +298,7 @@ Because he didn't know what to eat, the rabbit skipped lunch.
 
 过去分词暗含**被动关系**，即**被描述的是动作的接受者**
 
-<br>
+
 
 过去分词具有以下功能：
 
@@ -305,19 +310,19 @@ Because he didn't know what to eat, the rabbit skipped lunch.
 过去分词短语作定语时，**定语后置**(放在名词之后)
 *eg：*  The carrot cake **eaten by** the rabbit is delicious.
 eaten by 是过去分词短语，修饰the carrot cake
-<br>
+
 
 **2.  过去分词作表语**
 
 *eg：*  The rabbit is **interested**.
 兔子很有兴趣。表明兔子被某件事物引起了兴趣
 
-<br>
+
 
 **3.  过去分词作宾语补足语**
 *eg：*  The rabbit found his carrot **stolen**.
 
-<br>
+
 
 **4. 过去分词作状语**
 和**现在分词作状语时**具有相同功能》
@@ -328,11 +333,11 @@ eaten by 是过去分词短语，修饰the carrot cake
 对应状语从句→
 The carrot field looks beautiful where we see **it** from the hill.
 it 代指逻辑主语 carrot field
-<br>
+
 
 * 表原因
 *eg：*  **Born** in a rabbit family, the rabbit has been growing carrots all his life.
-<br>
+
 
 * 表条件
 *eg：*  **Given** another chance, the rabbit would go to the wolf's party.
@@ -352,7 +357,7 @@ The rabbit was **frightening**.
 *原因见词条：现代分词 和 词条：过去分词*》
 
 
-<br>
+
 
 **2. 现在分词和动词不定式作宾语补足语时表达含义上的对比**
 
@@ -396,7 +401,7 @@ Because the wolf invited him, the rabbit decided to go to the party.
 If the weather permits, the rabbit will go out.
 
 → **The weather** ***permitting***, the rabbit will go out.
-<br>
+
 
 **2. 名词 / 代词 + 过去分词**
 动词与逻辑主语为被动关系
@@ -406,14 +411,14 @@ If the weather permits, the rabbit will go out.
 After the work was finished, the rabbit went home.
 
 →  **The work** ***finished***, the rabbit went home.
-<br>
+
 
 *eg2：*
 改写**两个不同主语的并列句**，动作同时发生，可理解为**伴随**
 The rabbit is lying in bed and a carrot is still held in his hand.
 
 →  The rabbit is lying in bed, **a carrot** still ***held*** in his hand.
-<br>
+
 
 **3. 名词 / 代词 + 动词不定式**
 动词不定式能够表示将要发生的动作
@@ -425,27 +430,27 @@ The rabbit is lying in bed and a carrot is still held in his hand.
 以下4种的结构本质是，**包含be** 的独立主格，也就是名词 / 代词 + be动词的现在分词，**省略 being**的简化形式
 
 特别注意，如果只有**人称代词**《，**则 being 不能省略**
-<br>
+
 
 **4. 名词 / 代词 + 名词**
 *eg：*
 Many animals went to the pary, **some of them** ***(being)*** **rabbits and wolves**.
 
 因为是**不定代词**，后面才能**省略 being** ，**直接跟名词**
-<br>
+
 
 **5. 名词 / 代词 + 形容词**
 *eg：*
 Many animals went to the pary, **some of them** ***(being)*** **happy**.
 
 同样是**不定代词**，后面能**省略 being** ，**直接跟形容词**
-<br>
+
 
 **6. 名词 / 代词 + 副词**
 *eg：*
 The rabbit sat on a chair, **head** ***(being)*** **down**.
 这里的 down 是副词
-<br>
+
 
 **7. 名词 / 代词 + 介词短语**
 *eg：*

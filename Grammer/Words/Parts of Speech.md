@@ -9,7 +9,7 @@
 在句子成分(Clause Elements)中，**谓语动词**只可能是动词，但动词可以充当句子中的其他成分
 
 **谓语动词**部分在时态(Verb Tenses)中将会详细解释《
-<br>
+
 
 
 2. **名词 (nouns)** 表示人和物
@@ -32,14 +32,14 @@
 也叫行为动词，这些动词通常表达实际意义
 *（详细见 notional verbs）*
 
-<br>
+
 
 **2. 助动词 (auxiliary verbs)**《
 
 **情态动词**也可以认为是助动词的一种
 *（详细见 auxiliary verbs）*
 
-<br>
+
 
 **3. 非谓语动词 (non-finite verbs)**《
 
